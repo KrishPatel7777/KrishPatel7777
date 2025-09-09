@@ -1,9 +1,7 @@
 # Hi, I'm Krish 👋
 
 🎓 I'm a 2nd Year IMSc IT Student at **GLS University**  
-💡 Passionate about **AI/ML, Full Stack Development, and Problem Solving**  
-🌱 Currently exploring **Python, Data Structures, and Machine Learning**  
-🚀 Future Goal: To become an **AI/ML Engineer**  
+💡 Passionate about **AI/ML and Problem Solving**
 
 ---
 
